@@ -1,4 +1,4 @@
-[jQuery](http://jquery.com/) — old Wave JavaScript
+﻿[jQuery](http://jquery.com/) — old/new Wave JavaScript
 ==================================================
 
 Contribution Guides
